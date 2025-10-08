@@ -62,5 +62,5 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/daily-spend-tracer.git
+   git clone https://github.com/Sumanth0019/daily-spend-tracer.git
    cd daily-spend-tracer
