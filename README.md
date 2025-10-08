@@ -1,10 +1,10 @@
-# 💸 Daily Spend Tracer
+# Daily Spend Tracer
 
 **Daily Spend Tracer** is a web-based application built with **Flask** to help users efficiently track, manage, and analyze their daily expenses. The platform offers intuitive expense management, insightful visualizations, and a responsive design for all devices.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Add New Expenses**  
   Record transactions with details including date, merchant, category, amount, description, and optional receipt photo.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 ### **Backend**
 - **Flask (Python)** – Lightweight web framework for building API routes and application logic.  
@@ -41,15 +41,15 @@
 
 ## 📈 Future Enhancements
 
-- 🔒 **User Authentication** – Multi-user account support.  
-- 📤 **Data Export** – Export expense data as CSV or PDF.  
-- 🔍 **Advanced Search & Filters** – Easily filter and analyze transactions.  
-- ♻️ **Recurring Expenses** – Automatically track regular payments.  
-- 📱 **Enhanced Mobile Experience** – Further optimized responsive design.
+- **User Authentication** – Multi-user account support.  
+- **Data Export** – Export expense data as CSV or PDF.  
+- **Advanced Search & Filters** – Easily filter and analyze transactions.  
+- **Recurring Expenses** – Automatically track regular payments.  
+- **Enhanced Mobile Experience** – Further optimized responsive design.
 
 ---
 
-## 🧩 How It Works
+## How It Works
 
 1. **Add Expenses** – Enter your transaction details through a simple form.  
 2. **Data Storage** – Records are securely saved in a local SQLite database.  
@@ -58,7 +58,7 @@
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository:**
    ```bash
